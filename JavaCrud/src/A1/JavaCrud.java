@@ -1,7 +1,7 @@
 package A1;
 
 import java.awt.EventQueue;
-import java.sql.*;
+import java.sql.*; 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
